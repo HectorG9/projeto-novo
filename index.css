@@ -58,13 +58,16 @@ aside {
     height: 150px;
 }
 
-.btn{
-    background-color: blue;
-    border-radius: 50px;
-}
 .div-card {
     display: flex;
     gap: 10px;
     justify-content: center;
+    margin-bottom: 30px;
 }
 
+h1 {
+    text-align: center;
+    border: 1px solid rgba(66, 64, 64, 0.774);
+    margin: 150px;
+    padding: 50px;
+}
